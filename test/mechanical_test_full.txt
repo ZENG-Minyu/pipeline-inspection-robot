@@ -1,0 +1,334 @@
+  //一次开始
+    // 步骤1：电机3前进400步
+    STEP_STEPS(3, FORWARD_STEPS),
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, ROTATION_STEPS),
+
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, ROTATION_STEPS),
+
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, ROTATION_STEPS),
+
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, (-4)*ROTATION_STEPS),
+
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, -ROTATION_STEPS),
+
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, -ROTATION_STEPS),
+
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, 3*ROTATION_STEPS),
+    //一次结束
+
+    //一次开始
+    // 步骤1：电机3前进400步
+    STEP_STEPS(3, FORWARD_STEPS),
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, ROTATION_STEPS),
+
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, ROTATION_STEPS),
+
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, ROTATION_STEPS),
+
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, (-4)*ROTATION_STEPS),
+
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, -ROTATION_STEPS),
+
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, -ROTATION_STEPS),
+
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, 3*ROTATION_STEPS),
+    //一次结束
+
+    //一次开始
+    // 步骤1：电机3前进400步
+    STEP_STEPS(3, FORWARD_STEPS),
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, ROTATION_STEPS),
+
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, ROTATION_STEPS),
+
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, ROTATION_STEPS),
+
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, (-4)*ROTATION_STEPS),
+
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, -ROTATION_STEPS),
+
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, -ROTATION_STEPS),
+
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, 3*ROTATION_STEPS),
+    //一次结束
+
+    //一次开始
+    // 步骤1：电机3前进400步
+    STEP_STEPS(3, FORWARD_STEPS),
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, ROTATION_STEPS),
+
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, ROTATION_STEPS),
+
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, ROTATION_STEPS),
+
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, (-4)*ROTATION_STEPS),
+
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, -ROTATION_STEPS),
+
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, -ROTATION_STEPS),
+
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, 3*ROTATION_STEPS),
+    //一次结束
+
+    //一次开始
+    // 步骤1：电机3前进400步
+    STEP_STEPS(3, FORWARD_STEPS),
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, ROTATION_STEPS),
+
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, ROTATION_STEPS),
+
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, ROTATION_STEPS),
+
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, (-4)*ROTATION_STEPS),
+
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, -ROTATION_STEPS),
+
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, -ROTATION_STEPS),
+
+    // 步骤3：电机0伸出摇臂
+    STEP_EXTEND(0),
+    // 步骤4：等待1秒
+    STEP_WAIT(1000),
+    // 步骤5：电机0收回摇臂
+    STEP_RETRACT(0),
+    // 步骤6：电机1前进380步
+    STEP_STEPS(1, 3*ROTATION_STEPS),
+    //一次结束

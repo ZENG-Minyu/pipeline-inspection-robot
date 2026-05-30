@@ -77,7 +77,7 @@
 | Motor 3 = A | A (STEP=D12, DIR=D13) | 整机前进/后退（3 轮） | 1/8 微步，轮径 70mm |
 
 > **注意：** Motor A 通过一个 A4988 同时驱动 3 个 Nema 17 驱动轮电机（接线端并联），三个轮子同步转动以维持直线行走。
-> **温馨提示：** 如果对于电机接线有问题请先参考太极创客关于Arduino CNC shield的文章，本项目严格遵循：http://www.taichi-maker.com/homepage/reference-index/motor-reference-index/arduino-cnc-shield/。
+**温馨提示：** 如果对于电机接线有问题请先参考太极创客关于Arduino CNC shield的文章，本项目严格遵循：http://www.taichi-maker.com/homepage/reference-index/motor-reference-index/arduino-cnc-shield/
 
 ---
 

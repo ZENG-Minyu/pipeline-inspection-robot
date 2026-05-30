@@ -2,7 +2,7 @@
 
 > **Pipeline Inspection Robot — Embedded Control System**
 >
-> 香港理工大学机电工程系 2025/2026 毕业设计项目 (Final Year Project)
+> 香港科技大学机械工程 2025/2026 毕业设计项目 (Final Year Project)
 >
 > 作者：ZENG Minyu &nbsp;|&nbsp; 代码最后更新：2026.04.22
 
